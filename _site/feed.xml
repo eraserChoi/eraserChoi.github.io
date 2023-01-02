@@ -1,0 +1,265 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>EraserChoi</title>
+  <subtitle>안녕하세요.</subtitle>
+  <updated>2023-01-03T01:27:30+09:00</updated>
+  <author>
+    <name>eraser choi</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
+  <rights> © 2023 eraser choi </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Kotlin문법</title>
+    <link href="http://localhost:4000/posts/Kotlin%EB%AC%B8%EB%B2%95/" rel="alternate" type="text/html" title="Kotlin문법" />
+    <published>2023-01-03T00:00:00+09:00</published>
+  
+    <updated>2023-01-03T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/Kotlin%EB%AC%B8%EB%B2%95/</id>
+    <content src="http://localhost:4000/posts/Kotlin%EB%AC%B8%EB%B2%95/" />
+    <author>
+      <name>eraser choi</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+kotlin 문법
+
+코틀린 문법을 정리해보자!
+나중에 참고용ㅎ
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>2023 새해목표</title>
+    <link href="http://localhost:4000/posts/2023%EC%83%88%ED%95%B4%EB%AA%A9%ED%91%9C/" rel="alternate" type="text/html" title="2023 새해목표" />
+    <published>2023-01-01T12:33:00+09:00</published>
+  
+    <updated>2023-01-01T12:33:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/2023%EC%83%88%ED%95%B4%EB%AA%A9%ED%91%9C/</id>
+    <content src="http://localhost:4000/posts/2023%EC%83%88%ED%95%B4%EB%AA%A9%ED%91%9C/" />
+    <author>
+      <name>eraserChoi</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      2023년도 새해 기념으로 항상 하는 신년목표를 적어보았다.
+{ width=”972” height=”589”}
+
+
+  매년 일어나는 행사 입니다.
+
+
+
+코딩테스트 준비
+
+1일 1코테
+PCCP Level 4
+
+  하루 뒤, 3일 뒤, 일주일 뒤, 한달 뒤 같은 문제 복귀
+  이것이 코딩테스트다 2/15까지 3회독
+
+
+
+
+토이 프로젝트
+
+Bookoo
+역할 : Backend(Spring Boot)
+
+  백앤드 개발로 참여
+
+
+
+
+MyLog(Mobile Developer)
+역할 : Mobile(Flutter)
+
+  플러터 교육, 모바일 프로젝트 개발 리더로 참여
+
+
+
+
+코틀린
+
+
+회사 프로젝트 성공적인 1차 개발
+
+회사에서 이제 시작하는 모바일 공통 fw개발.. 제발 성공적으로 수행하길… 지금은 혼자 요건정의...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Enable Google Page Views</title>
+    <link href="http://localhost:4000/posts/enable-google-pv/" rel="alternate" type="text/html" title="Enable Google Page Views" />
+    <published>2021-01-04T08:32:00+09:00</published>
+  
+    <updated>2021-01-04T08:32:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/enable-google-pv/</id>
+    <content src="http://localhost:4000/posts/enable-google-pv/" />
+    <author>
+      <name>sille_bille</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  The content of this post applies only to Universal Analytics property (UA), not Google Analytics 4 (GA 4). In addition, since UA is about to be deprecated on Jul 1, 2023, the Page Views feature of Chirpy will also be deprecated at that time.
+
+
+This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep t...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Customize the Favicon</title>
+    <link href="http://localhost:4000/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
+    <published>2019-08-11T01:34:00+09:00</published>
+  
+    <updated>2019-08-11T01:34:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/customize-the-favicon/</id>
+    <content src="http://localhost:4000/posts/customize-the-favicon/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
+
+Generate the favicon
+
+Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool Real Favicon Generator and click the button Select your Favicon image ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Getting Started</title>
+    <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
+    <published>2019-08-09T21:55:00+09:00</published>
+  
+    <updated>2019-08-09T21:55:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/getting-started/</id>
+    <content src="http://localhost:4000/posts/getting-started/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Prerequisites
+
+Follow the instructions in the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll, and Bundler. In addition, Git is also required to be installed.
+
+Installation
+
+Creating a New Site
+
+There are two ways to create a new repository for this theme:
+
+
+  Using the Chirpy Starter - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
+  Forking ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
